@@ -5,7 +5,6 @@ return {
 		display_name = T(831800953788, --[[ModItemGameRuleDef randomAttack display_name]] "Random Attack"),
 		group = "Default",
 		id = "randomAttack",
-		init_as_active = true,
 		msg_reactions = {
 			PlaceObj('MsgActorReactionEffects', {
 				ActorParam = "squad",
